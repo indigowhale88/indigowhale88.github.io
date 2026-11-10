@@ -63,7 +63,8 @@ p { margin: 0 0 1em; word-break: keep-all; }
 }
 .nav { display: flex; align-items: center; justify-content: space-between; height: 68px; }
 .brand { display: flex; align-items: center; gap: 10px; font-weight: 900; letter-spacing: .08em; }
-.brand-small { font-size: .9rem; }
+.brand-logo { height: 22px; width: auto; }
+.brand-logo-small { height: 16px; opacity: .9; }
 .nav-menu { display: flex; align-items: center; gap: 28px; font-weight: 500; }
 .nav-menu a:not(.btn) { opacity: .85; }
 .nav-menu a:not(.btn):hover { opacity: 1; }
