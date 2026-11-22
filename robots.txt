@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://indigowhale88.github.io/sitemap.xml
