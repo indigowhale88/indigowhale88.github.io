@@ -9,7 +9,8 @@ index.html          메인 페이지 (회사소개 · 서비스 · 앱 · 문의
 404.html            404 페이지
 assets/css/style.css
 assets/js/main.js   스크롤 헤더, 모바일 메뉴, 스크롤 애니메이션
-assets/img/logo.svg 로고 / 파비콘
+assets/logo/        워드마크 로고(원본·흰색), 파비콘(IW), 홈 화면 아이콘
+apps/airdream/      AirDream 앱 소개 · 개인정보 처리방침(privacy/)
 .nojekyll           Jekyll 처리 없이 정적 파일 그대로 배포
 ```
 
