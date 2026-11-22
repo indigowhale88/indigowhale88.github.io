@@ -25,7 +25,7 @@
   });
 
   // Reveal on scroll
-  var targets = document.querySelectorAll('.section h2, .card, .app, .two-col > div, .cta');
+  var targets = document.querySelectorAll('.section h2, .card, .app, .prose p');
   if ('IntersectionObserver' in window) {
     var io = new IntersectionObserver(function (entries) {
       entries.forEach(function (e) {
